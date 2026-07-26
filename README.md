@@ -22,3 +22,7 @@ I build practical AI assistants, automation tools, and open-source projects.
 ## Mission
 
 Build useful AI tools that solve real-world problems and document the journey clearly.
+
+## Branding Preview
+
+![BigSteve Labs branding banner](Branding/github-banner.svg)

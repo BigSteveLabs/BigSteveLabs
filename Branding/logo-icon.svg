@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">BigSteve Labs BS icon</title>
+  <desc id="desc">Readable electric blue BS monogram inside a precise rounded square on a dark background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070D"/>
+      <stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#36A3FF"/>
+      <stop offset="1" stop-color="#0A84FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#bg)"/>
+  <rect x="48" y="48" width="416" height="416" rx="84" fill="none" stroke="url(#blue)" stroke-width="16"/>
+  <path d="M82 156H122M390 156H430M82 356H122M390 356H430" stroke="#36A3FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M98 256H414M256 98V414" stroke="#0B1F3A" stroke-width="4"/>
+  <text x="256" y="318" text-anchor="middle" fill="url(#blue)" font-family="Segoe UI, Arial, sans-serif" font-size="212" font-weight="800" letter-spacing="-16">BS</text>
+</svg>
