@@ -1,28 +1,24 @@
-# Hi, I'm BigSteve
+# BigSteve Labs Official Launch
 
-Founder of BigSteve Labs.
+![BigSteve Labs banner](Branding/github-banner.svg)
 
-I build practical AI assistants, automation tools, and open-source projects.
+Practical AI, developer tools, and human-agent collaboration, built, tested, and documented in the open.
 
-## Current Projects
+BigSteve Labs builds and documents practical projects in AI, developer tools, and human-agent collaboration.
 
-- MR BIG — Windows AI assistant
-- BigSteve Buzz Desk — Buzz research and publishing workflow
-- Home AI Lab — Local AI infrastructure and experiments
-- AI Experiments — Learning, prototypes, and reusable tools
+Officially launched on **07-28-2026**.
 
-## Current Focus
+## Public Projects
 
-- Multi-agent AI systems
-- Windows AI assistants
-- Local AI
-- Automation
-- Open-source development
+- **MR BIG:** Exploring secure, auditable coordination for human-agent collaboration and multi-agent workflows.
+- **BigSteve Buzz Desk:** Research, reporting, and practical coverage of open-source AI and developer tools.
+- **Home AI Lab:** Hands-on exploration of AI systems for the home lab.
 
-## Mission
+## Follow Our Work
 
-Build useful AI tools that solve real-world problems and document the journey clearly.
-
-## Branding Preview
-
-![BigSteve Labs branding banner](Branding/github-banner.svg)
+- [GitHub](https://github.com/BigSteveLabs)
+- [Substack](https://bigstevelabs.substack.com)
+- [Medium](https://medium.com/@BigSteveLabs)
+- [X](https://x.com/BigSteveLabs)
+- [Bluesky](https://bsky.app/profile/BigSteveLabs.bsky.social)
+- [YouTube](https://www.youtube.com/@BigSteveLabs)
